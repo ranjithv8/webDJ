@@ -1,3 +1,19 @@
 html {
 	background: #346;
 }
+
+.bars {
+	width:560px;
+	height:200px;
+	background: #347;
+	margin:auto;
+	position: relative;
+}
+
+.bar {
+	min-height: 10px;
+	width: 25px;
+	margin: 0 5px;
+	background: #000;
+	float: left;		
+}
